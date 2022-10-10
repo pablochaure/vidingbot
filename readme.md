@@ -8,8 +8,6 @@ Having faced many times the circumstance that the pool at my gym was fully booke
 
 This was my first time automating tasks in a web browser with Selenium and, with the help of the documentation and other similar projects online, I was able to successfully automate my gym reservations.
 
-## Getting Started
-
 ## Built With
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
